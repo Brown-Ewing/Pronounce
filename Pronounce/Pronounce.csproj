@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="MP_verify_vSEU7G4oNs7NQPRJ.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
