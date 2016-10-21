@@ -1,0 +1,6 @@
+D:\Projects\PronounceServer\Pronounce\Pronounce\bin\Pronounce.dll.config
+D:\Projects\PronounceServer\Pronounce\Pronounce\bin\Pronounce.dll
+D:\Projects\PronounceServer\Pronounce\Pronounce\bin\Pronounce.pdb
+D:\Projects\PronounceServer\Pronounce\Pronounce\obj\Debug\Pronounce.csprojResolveAssemblyReference.cache
+D:\Projects\PronounceServer\Pronounce\Pronounce\obj\Debug\Pronounce.dll
+D:\Projects\PronounceServer\Pronounce\Pronounce\obj\Debug\Pronounce.pdb
